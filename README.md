@@ -1,3 +1,2 @@
 # KDT-WEB-7!!!!
-
-KDT WEB 7 LESSON
+KDT WEB 7 LESSON Git practice
